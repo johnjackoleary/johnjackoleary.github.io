@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>San Mateo Highlands</name>
+<NetworkLink>
+<name>https://johnjackoleary.github.io/storage/cfijackblog/abandonedairports/SanMateoHighlands/0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>-122.34037549565502</west>
+<north>37.51526661658689</north>
+<east>-122.33193037574517</east>
+<south>37.50682149667705</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>https://johnjackoleary.github.io/storage/cfijackblog/abandonedairports/SanMateoHighlands/0/0/0.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>-122.33783948552585</longitude>
+<latitude>37.51280483114442</latitude>
+<altitude>0</altitude>
+<range>707.89811074965621</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>Crissy Field</name>
+<NetworkLink>
+<name>https://johnjackoleary.github.io/storage/cfijackblog/abandonedairports/CrissyField/0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>-122.46630678980428</west>
+<north>37.80608808827621</north>
+<east>-122.45049135850398</east>
+<south>37.79027265697592</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>https://johnjackoleary.github.io/storage/cfijackblog/abandonedairports/CrissyField/0/0/0.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>-122.46009413624907</longitude>
+<latitude>37.80412660412080</latitude>
+<altitude>0</altitude>
+<range>564.03552655752901</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>
