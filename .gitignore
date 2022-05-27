@@ -7,3 +7,5 @@
 ehthumbs.db
 Thumbs.db
 
+# Ignore future changes for the time being
+storage/cfijackblog/abandonedairports/
